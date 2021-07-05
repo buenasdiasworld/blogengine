@@ -13,7 +13,7 @@ to start on heroku add to config vars you database url (ex JAWSDB_URL)
 
 ### Cloud Storage
 
-you can youse Amazonas S3 to store you static asssets 
+you can use Amazonas S3 to store you static asssets 
 
 for that need to add S3 config, S3 storage url, S3 credentials
 
